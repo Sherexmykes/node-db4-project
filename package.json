@@ -1,0 +1,29 @@
+{
+  "name": "db4-project",
+  "version": "1.0.0",
+  "description": "- database modeling.\r - migration scripts.\r - seeding.\r - knex.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "knex": "^0.20.11",
+    "nodemon": "^2.0.2",
+    "process-nextick-args": "^2.0.1",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sherexmykes/node-db4-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sherexmykes/node-db4-project/issues"
+  },
+  "homepage": "https://github.com/Sherexmykes/node-db4-project#readme"
+}
